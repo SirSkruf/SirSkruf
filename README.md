@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirSkruf
 - 👀 I’m interested in Unity and Fun
-- 🌱 I’m currently learning C# & XR/AR
+- 🌱 I’m currently learning C# /AR, JS,Html,CSS using everything i can find :)
 
 
 
